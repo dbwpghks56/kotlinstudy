@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e116a923-d3ff-4a43-b312-b720593743cd" name="변경" comment="operator 관련스">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ControllTest.kt" afterDir="false" />
+    <list default="true" id="e116a923-d3ff-4a43-b312-b720593743cd" name="변경" comment="제어문 관련">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/RepetitionTest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683697588472</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="제어문 관련">
+      <created>1683698824930</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683698824930</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,6 +110,7 @@
     <MESSAGE value="null check, safe call, elvis" />
     <MESSAGE value="Type 관련스" />
     <MESSAGE value="operator 관련스" />
-    <option name="LAST_COMMIT_MESSAGE" value="operator 관련스" />
+    <MESSAGE value="제어문 관련" />
+    <option name="LAST_COMMIT_MESSAGE" value="제어문 관련" />
   </component>
 </project>
