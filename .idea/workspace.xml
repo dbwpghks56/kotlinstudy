@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e116a923-d3ff-4a43-b312-b720593743cd" name="변경" comment="null check, safe call, elvis">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/TypeTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="e116a923-d3ff-4a43-b312-b720593743cd" name="변경" comment="Type 관련스">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/OperatorTest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683686384722</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Type 관련스">
+      <created>1683695785822</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683695785822</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -88,6 +94,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="null check, safe call, elvis" />
-    <option name="LAST_COMMIT_MESSAGE" value="null check, safe call, elvis" />
+    <MESSAGE value="Type 관련스" />
+    <option name="LAST_COMMIT_MESSAGE" value="Type 관련스" />
   </component>
 </project>
