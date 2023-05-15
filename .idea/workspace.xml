@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e116a923-d3ff-4a43-b312-b720593743cd" name="변경" comment="Kotlin의 접근 지시어 공부">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ObjectTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e116a923-d3ff-4a43-b312-b720593743cd" name="변경" comment="Kotlin의 Object 에 관하여" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -164,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684132913377</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Kotlin의 Object 에 관하여">
+      <created>1684135268091</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1684135268091</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -190,6 +194,7 @@
     <MESSAGE value="Kotlin의 클래스에 대해서 간단하게 공부" />
     <MESSAGE value="Kotlin의 클래스와 상속에 대해서 간단하게 공부" />
     <MESSAGE value="Kotlin의 접근 지시어 공부" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kotlin의 접근 지시어 공부" />
+    <MESSAGE value="Kotlin의 Object 에 관하여" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kotlin의 Object 에 관하여" />
   </component>
 </project>
