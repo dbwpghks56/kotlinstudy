@@ -41,12 +41,12 @@ class Person(
 //                                     // 자기 자신을 가리키는 보이지않는 field라고 해서 backing field라고 부른다.
 //        }
 
-    fun getUppercaseName() : String {
-        return this.name.uppercase()
-    }
-
-    val uppercaseName : String
-        get() = this.name.uppercase()
+//    fun getUppercaseName() : String {
+//        return this.name.uppercase()
+//    }
+//
+//    val uppercaseName : String
+//        get() = this.name.uppercase()
 
 }
 
