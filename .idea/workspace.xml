@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e116a923-d3ff-4a43-b312-b720593743cd" name="변경" comment="Kotlin의 클래스와 상속에 대해서 간단하게 공부">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/AccessControllTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/StringUtils.kt" afterDir="false" />
+    <list default="true" id="e116a923-d3ff-4a43-b312-b720593743cd" name="변경" comment="Kotlin의 접근 지시어 공부">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ObjectTest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +48,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.InheritTestKt">
+  <component name="RunManager">
     <configuration name="ClassTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ClassTestKt" />
       <module name="kotlinstudy.main" />
@@ -64,8 +63,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ObjectTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectTestKt" />
+      <module name="kotlinstudy.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ObjectTestKt" />
         <item itemvalue="Kotlin.InheritTestKt" />
         <item itemvalue="Kotlin.ClassTestKt" />
       </list>
@@ -150,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684126000413</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Kotlin의 접근 지시어 공부">
+      <created>1684132913377</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1684132913377</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -175,6 +189,7 @@
     <MESSAGE value="Fun 함수 관련" />
     <MESSAGE value="Kotlin의 클래스에 대해서 간단하게 공부" />
     <MESSAGE value="Kotlin의 클래스와 상속에 대해서 간단하게 공부" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kotlin의 클래스와 상속에 대해서 간단하게 공부" />
+    <MESSAGE value="Kotlin의 접근 지시어 공부" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kotlin의 접근 지시어 공부" />
   </component>
 </project>
