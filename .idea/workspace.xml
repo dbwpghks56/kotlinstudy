@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e116a923-d3ff-4a43-b312-b720593743cd" name="변경" comment="Kotlin의 collection Fun에 관하여">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/EtcTest.kt" afterDir="false" />
+    <list default="true" id="e116a923-d3ff-4a43-b312-b720593743cd" name="변경" comment="Kotlin에 관하여">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ScopeFunTest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/LamdaTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/LamdaTest.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -221,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684210419909</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Kotlin에 관하여">
+      <created>1684211759541</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1684211759541</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -254,6 +260,7 @@
     <MESSAGE value="Kotlin의 다양한 함수에 관하여" />
     <MESSAGE value="Kotlin의 함수형 프로그래밍에 관하여" />
     <MESSAGE value="Kotlin의 collection Fun에 관하여" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kotlin의 collection Fun에 관하여" />
+    <MESSAGE value="Kotlin에 관하여" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kotlin에 관하여" />
   </component>
 </project>
