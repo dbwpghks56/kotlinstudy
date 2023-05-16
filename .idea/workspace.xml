@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e116a923-d3ff-4a43-b312-b720593743cd" name="변경" comment="Kotlin의 Object 에 관하여" />
+    <list default="true" id="e116a923-d3ff-4a43-b312-b720593743cd" name="변경" comment="Kotlin의 Object 에 관하여">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DoubleClassTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -168,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684135268091</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Kotlin의 Object 에 관하여">
+      <created>1684140640614</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1684140640614</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
