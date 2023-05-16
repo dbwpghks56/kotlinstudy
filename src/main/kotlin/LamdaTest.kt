@@ -1,4 +1,4 @@
-class Fruit(
+data class Fruit(
     val name:String,
     val price: Int
 ) {
@@ -56,7 +56,7 @@ fun main() {
     fruits.firstOrNull() // 첫번 째 값 또는 null last 버전도 있음
 
     val fruitMap : Map<String, List<Fruit>> = fruits.groupBy { it.name } // 조건을 기준으로 그룹 형성
-    val fruitMap2 : Map<Long, Fruit2> = fruits.associateBy { it.id } // 중복되지 않는 값을 가지고 map 을 만들 때
+//    val fruitMap2 : Map<Long, Fruit2> = fruits.associateBy { it.id } // 중복되지 않는 값을 가지고 map 을 만들 때
     val fruitMap3 : Map<String, List<Int>> = fruits.groupBy ({ it.name }, {it.price} ) // associateBy 로도 가능
 }
 
